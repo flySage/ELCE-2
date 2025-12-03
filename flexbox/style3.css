@@ -1,0 +1,50 @@
+.container{
+    display:flex;
+    height: 800px;
+    width: 100%;
+    background-color: white;
+    flex-wrap: wrap;
+    gap: 10px;
+    flex-direction: column;
+}
+
+.item{
+    background-color: #bb74e9;
+    color: rgb(79, 240, 240);
+    font-size: 30px;
+    text-align:center;
+    gap: 20px;
+    padding: 20px;
+    border: black;
+}
+
+.item1{
+    height: 100px;
+    order:3;
+    
+}
+
+.item2{
+    height: 100px;
+    order:2;
+}
+
+.item3{
+    height: 100px;
+     order:1;
+}
+
+.item4{
+    height: 100px;
+     order:6;
+}
+
+.item5{
+    height: 100px;
+     order:5;
+}
+
+.item6{
+    height: 100px;
+     order:4;
+}
