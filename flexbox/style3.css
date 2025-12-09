@@ -5,6 +5,7 @@
     background-color: white;
     flex-wrap: wrap;
     gap: 10px;
+    flex
     flex-direction: column;
 }
 
@@ -21,7 +22,6 @@
 .item1{
     height: 100px;
     order:3;
-    
 }
 
 .item2{
